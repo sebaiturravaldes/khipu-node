@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Implementación de la API REST de Khipu",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "eslint": "eslint --ext .js src/",
     "eslint:fix": "eslint --fix --ext .js src/"

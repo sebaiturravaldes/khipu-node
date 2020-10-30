@@ -1,4 +1,4 @@
-# Khipu NodeJs
+# Khipu Node JS
 
 ## Complete documentation
 
