@@ -1,0 +1,38 @@
+{
+  "name": "khipu",
+  "version": "1.0.0",
+  "description": "Implementación de la API REST de Khipu",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint --ext .js src/",
+    "eslint:fix": "eslint --fix --ext .js src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siturra/khipu-node.git"
+  },
+  "keywords": [
+    "khipu",
+    "node",
+    "chile",
+    "pagos"
+  ],
+  "author": "Sebastián Iturra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siturra/khipu-node/issues"
+  },
+  "homepage": "https://github.com/siturra/khipu-node#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "crypto": "^1.0.1",
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-standard": "^16.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
