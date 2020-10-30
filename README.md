@@ -1,4 +1,4 @@
-# Khipu
+# Khipu NodeJs
 
 ## Complete documentation
 
@@ -6,12 +6,18 @@ This library is an implementation made in javascript of the [Khipu API](https://
 
 ## Support Version
 
-this library support version 2.0 [Khipu Api](https://cl.khipu.com/page/api)
+Current support [Khipu API](https://cl.khipu.com/page/api) version 2.0 
 
 ### Install
 
+Npm:
 ```bash
-npm install --save khipu
+npm install --save khipujs
+```
+
+Yarn: 
+```bash
+yarn add khipujs
 ```
 
 ## Getting started
