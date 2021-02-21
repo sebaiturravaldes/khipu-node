@@ -27,7 +27,7 @@ yarn add khipujs
 Make sure you have created your free account on [Khipu](https://khipu.com) and that you have your **Credentials**.
 
 ```javascript
-import Khipu from 'khipu'
+import Khipu from 'khipujs'
 
 const khipu = new Khipu({
   commerceId: 'COMMERCE_ID',
